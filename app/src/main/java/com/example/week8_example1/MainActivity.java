@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
         textOutput.setText(sb.toString());
     }
-
+// Comment for demonstrating github commits
     public void increaseTextSize(View view)
     {
 
